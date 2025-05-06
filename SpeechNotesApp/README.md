@@ -23,4 +23,5 @@ A Python application that transcribes speech to text, saves notes, and generates
 
 ## Run the program
 
-python speech.py
+1. Run local ollama with: ollama run mistral
+2. Run the program: python speech.py
